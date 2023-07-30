@@ -1,0 +1,11 @@
+matplotlib
+pandas
+altair
+gtts
+translate
+wikipedia-api
+deep_translator
+streamlit
+gtts
+
+
